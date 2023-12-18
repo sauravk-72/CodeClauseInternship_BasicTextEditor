@@ -1,0 +1,37 @@
+.nav-container{
+    height: 150px;
+    display:flex;
+    align-items: center;
+    padding:60px;
+    gap:50px;
+    justify-content: center;
+    background-color: black;
+    color:white;
+    
+}
+.logo{
+   display: flex;
+   justify-content: center;
+}
+.logo img{
+    height:100px;
+}
+.navmenu{
+    display:flex;
+    gap:50px;
+    width: 50%;
+    justify-content: center;
+   
+}
+
+.logo p{
+    font-size: xxx-large;
+    font-weight: 500;
+    font-family: ui-sans-serif;
+}
+.navmenu p{
+    font-weight: 500;
+    font-family: ui-sans-serif;
+    font-size: x-large;
+
+}
